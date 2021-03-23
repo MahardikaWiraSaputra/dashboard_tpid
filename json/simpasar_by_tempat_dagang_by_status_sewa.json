@@ -1,0 +1,488 @@
+[
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Los",
+"jumlah": "686",
+"jml_buka": "254",
+"jml_mingguan": "0",
+"jml_tutup": "432"
+},
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "160",
+"jml_buka": "109",
+"jml_mingguan": "0",
+"jml_tutup": "51"
+},
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "1",
+"jml_buka": "0",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "24",
+"jml_buka": "14",
+"jml_mingguan": "0",
+"jml_tutup": "10"
+},
+{
+"id_pasar": "01.19",
+"nama_pasar": "Mojopanggung",
+"jenis_tempat_dagang": "Los",
+"jumlah": "8",
+"jml_buka": "7",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "01.19",
+"nama_pasar": "Mojopanggung",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "9",
+"jml_buka": "8",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "01.26",
+"nama_pasar": "Pujasera",
+"jenis_tempat_dagang": "Los",
+"jumlah": "58",
+"jml_buka": "58",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "01.26",
+"nama_pasar": "Pujasera",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "77",
+"jml_buka": "72",
+"jml_mingguan": "0",
+"jml_tutup": "5"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Los",
+"jumlah": "268",
+"jml_buka": "223",
+"jml_mingguan": "0",
+"jml_tutup": "45"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "67",
+"jml_buka": "63",
+"jml_mingguan": "0",
+"jml_tutup": "4"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "2",
+"jml_buka": "2",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "375",
+"jml_buka": "349",
+"jml_mingguan": "0",
+"jml_tutup": "26"
+},
+{
+"id_pasar": "02.19",
+"nama_pasar": "Gambiran",
+"jenis_tempat_dagang": "Los",
+"jumlah": "10",
+"jml_buka": "1",
+"jml_mingguan": "0",
+"jml_tutup": "9"
+},
+{
+"id_pasar": "02.19",
+"nama_pasar": "Gambiran",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "14",
+"jml_buka": "13",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Los",
+"jumlah": "624",
+"jml_buka": "428",
+"jml_mingguan": "0",
+"jml_tutup": "196"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "132",
+"jml_buka": "102",
+"jml_mingguan": "0",
+"jml_tutup": "30"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "1",
+"jml_buka": "1",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "93",
+"jml_buka": "91",
+"jml_mingguan": "0",
+"jml_tutup": "2"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Los",
+"jumlah": "232",
+"jml_buka": "162",
+"jml_mingguan": "0",
+"jml_tutup": "70"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "58",
+"jml_buka": "50",
+"jml_mingguan": "0",
+"jml_tutup": "8"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "5",
+"jml_buka": "5",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "5",
+"jml_buka": "5",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Los",
+"jumlah": "470",
+"jml_buka": "314",
+"jml_mingguan": "0",
+"jml_tutup": "156"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "33",
+"jml_buka": "30",
+"jml_mingguan": "0",
+"jml_tutup": "3"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "21",
+"jml_buka": "20",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "04.13",
+"nama_pasar": "Kebondalem",
+"jenis_tempat_dagang": "Los",
+"jumlah": "4",
+"jml_buka": "4",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "04.13",
+"nama_pasar": "Kebondalem",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "123",
+"jml_buka": "96",
+"jml_mingguan": "26",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "04.15",
+"nama_pasar": "Sambirejo",
+"jenis_tempat_dagang": "Los",
+"jumlah": "95",
+"jml_buka": "2",
+"jml_mingguan": "89",
+"jml_tutup": "4"
+},
+{
+"id_pasar": "04.15",
+"nama_pasar": "Sambirejo",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "29",
+"jml_buka": "29",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "04.17",
+"nama_pasar": "Jatirejo",
+"jenis_tempat_dagang": "Los",
+"jumlah": "62",
+"jml_buka": "0",
+"jml_mingguan": "54",
+"jml_tutup": "8"
+},
+{
+"id_pasar": "04.17",
+"nama_pasar": "Jatirejo",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "22",
+"jml_buka": "22",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "05.05",
+"nama_pasar": "Muncar",
+"jenis_tempat_dagang": "Los",
+"jumlah": "395",
+"jml_buka": "362",
+"jml_mingguan": "0",
+"jml_tutup": "33"
+},
+{
+"id_pasar": "05.05",
+"nama_pasar": "Muncar",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "19",
+"jml_buka": "17",
+"jml_mingguan": "0",
+"jml_tutup": "2"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Los",
+"jumlah": "48",
+"jml_buka": "24",
+"jml_mingguan": "19",
+"jml_tutup": "5"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "14",
+"jml_buka": "13",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "1",
+"jml_buka": "0",
+"jml_mingguan": "1",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Los",
+"jumlah": "445",
+"jml_buka": "414",
+"jml_mingguan": "0",
+"jml_tutup": "31"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "74",
+"jml_buka": "73",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "53",
+"jml_buka": "53",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Los",
+"jumlah": "170",
+"jml_buka": "161",
+"jml_mingguan": "0",
+"jml_tutup": "9"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "21",
+"jml_buka": "18",
+"jml_mingguan": "0",
+"jml_tutup": "3"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "46",
+"jml_buka": "45",
+"jml_mingguan": "0",
+"jml_tutup": "1"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Los",
+"jumlah": "540",
+"jml_buka": "522",
+"jml_mingguan": "0",
+"jml_tutup": "18"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "106",
+"jml_buka": "104",
+"jml_mingguan": "0",
+"jml_tutup": "2"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "3",
+"jml_buka": "3",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "100",
+"jml_buka": "98",
+"jml_mingguan": "0",
+"jml_tutup": "2"
+},
+{
+"id_pasar": "08.08",
+"nama_pasar": "Kalibaru",
+"jenis_tempat_dagang": "Los",
+"jumlah": "427",
+"jml_buka": "351",
+"jml_mingguan": "0",
+"jml_tutup": "76"
+},
+{
+"id_pasar": "08.08",
+"nama_pasar": "Kalibaru",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "33",
+"jml_buka": "30",
+"jml_mingguan": "0",
+"jml_tutup": "3"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Los",
+"jumlah": "315",
+"jml_buka": "251",
+"jml_mingguan": "37",
+"jml_tutup": "27"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "63",
+"jml_buka": "63",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "8",
+"jml_buka": "8",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Los",
+"jumlah": "29",
+"jml_buka": "29",
+"jml_mingguan": "0",
+"jml_tutup": "0"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "111",
+"jml_buka": "106",
+"jml_mingguan": "0",
+"jml_tutup": "5"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "430",
+"jml_buka": "168",
+"jml_mingguan": "0",
+"jml_tutup": "262"
+}
+]

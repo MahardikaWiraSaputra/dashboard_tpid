@@ -1,0 +1,191 @@
+[
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "1310",
+"jml_tersedia": "851",
+"jml_tersewa": "459"
+},
+{
+"id_pasar": "01.18",
+"nama_pasar": "Segitiga Berlian",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "110",
+"jml_tersedia": "110",
+"jml_tersewa": "0"
+},
+{
+"id_pasar": "01.19",
+"nama_pasar": "Mojopanggung",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "17",
+"jml_tersedia": "2",
+"jml_tersewa": "15"
+},
+{
+"id_pasar": "01.26",
+"nama_pasar": "Pujasera",
+"kategori": "Desa",
+"kelas_pasar": "kelas 3",
+"jml_slot": "295",
+"jml_tersedia": "165",
+"jml_tersewa": "130"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "1214",
+"jml_tersedia": "570",
+"jml_tersewa": "644"
+},
+{
+"id_pasar": "02.19",
+"nama_pasar": "Gambiran",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "54",
+"jml_tersedia": "34",
+"jml_tersewa": "20"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "1274",
+"jml_tersedia": "600",
+"jml_tersewa": "674"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 2",
+"jml_slot": "857",
+"jml_tersedia": "627",
+"jml_tersewa": "230"
+},
+{
+"id_pasar": "03.29",
+"nama_pasar": "Songgon",
+"kategori": "Desa",
+"kelas_pasar": "kelas 3",
+"jml_slot": "0",
+"jml_tersedia": "0",
+"jml_tersewa": "0"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "3443",
+"jml_tersedia": "2927",
+"jml_tersewa": "516"
+},
+{
+"id_pasar": "04.13",
+"nama_pasar": "Kebondalem",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 2",
+"jml_slot": "368",
+"jml_tersedia": "242",
+"jml_tersewa": "126"
+},
+{
+"id_pasar": "04.15",
+"nama_pasar": "Sambirejo",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "262",
+"jml_tersedia": "142",
+"jml_tersewa": "120"
+},
+{
+"id_pasar": "04.17",
+"nama_pasar": "Jatirejo",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "161",
+"jml_tersedia": "80",
+"jml_tersewa": "81"
+},
+{
+"id_pasar": "05.05",
+"nama_pasar": "Muncar",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "494",
+"jml_tersedia": "111",
+"jml_tersewa": "383"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 3",
+"jml_slot": "78",
+"jml_tersedia": "18",
+"jml_tersewa": "60"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "673",
+"jml_tersedia": "129",
+"jml_tersewa": "544"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 2",
+"jml_slot": "299",
+"jml_tersedia": "68",
+"jml_tersewa": "231"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "2016",
+"jml_tersedia": "1323",
+"jml_tersewa": "693"
+},
+{
+"id_pasar": "08.08",
+"nama_pasar": "Kalibaru",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "539",
+"jml_tersedia": "151",
+"jml_tersewa": "388"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 2",
+"jml_slot": "700",
+"jml_tersedia": "340",
+"jml_tersewa": "360"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"kategori": "Daerah",
+"kelas_pasar": "kelas 1",
+"jml_slot": "772",
+"jml_tersedia": "442",
+"jml_tersewa": "330"
+}
+]

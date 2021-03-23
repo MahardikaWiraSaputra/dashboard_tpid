@@ -1,0 +1,1160 @@
+Uri: https://midone.left4code.com/
+File Name: c:\Downloaded Web Sites\midone.left4code.com\index.htm
+Content Type: text/html
+
+Uri: https://midone.left4code.com/dist/images/logo.svg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://midone.left4code.com/dist/css/app.css?v=1
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\css\app.css
+Content Type: text/css
+
+Uri: https://midone.left4code.com/index.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\index.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-dashboard.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-dashboard.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-dashboard.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-dashboard.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-inbox.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-inbox.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-file-manager.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-file-manager.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-point-of-sale.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-point-of-sale.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-chat.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-chat.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-post.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-post.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-crud-data-list.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-crud-data-list.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-crud-form.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-crud-form.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-users-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-users-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-users-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-users-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-users-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-users-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-profile-overview-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-profile-overview-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-profile-overview-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-profile-overview-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-profile-overview-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-profile-overview-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-wizard-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-wizard-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-wizard-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-wizard-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-wizard-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-wizard-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-blog-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-blog-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-blog-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-blog-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-blog-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-blog-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-pricing-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-pricing-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-pricing-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-pricing-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-invoice-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-invoice-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-invoice-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-invoice-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-faq-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-faq-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-faq-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-faq-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-faq-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-faq-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/login-login.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\login-login.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/login-register.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\login-register.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/main-error-page.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\main-error-page.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-update-profile.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-update-profile.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-change-password.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-change-password.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-regular-table.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-regular-table.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-datatable.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-datatable.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-accordion.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-accordion.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-button.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-button.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-modal.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-modal.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-alert.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-alert.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-progress-bar.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-progress-bar.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-tooltip.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-tooltip.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-dropdown.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-dropdown.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-toast.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-toast.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-typography.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-typography.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-icon.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-icon.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-loading-icon.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-loading-icon.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-regular-form.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-regular-form.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-datepicker.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-datepicker.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-select2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-select2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-file-upload.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-file-upload.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-wysiwyg-editor.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-validation.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-validation.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-chart.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-chart.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-slider.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-slider.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/side-menu-image-zoom.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\side-menu-image-zoom.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/dist/images/profile-5.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-5.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-7.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-7.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-9.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-9.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-6.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-6.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-8.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-8.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-11.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-11.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-10.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-10.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-13.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-13.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-3.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-3.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-12.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-12.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-12.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-12.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-7.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-7.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-15.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-15.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-2.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-2.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-1.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-1.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-9.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-9.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-13.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-13.jpg
+Content Type: image/jpeg
+
+Uri: https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js
+File Name: c:\Downloaded Web Sites\midone.left4code.com\maps\documentation\javascript\examples\markerclusterer\markerclusterer.js
+Content Type: application/x-javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBG7gNHAhDzgYmq4-EHvM4bqW1DNj2UCuk&libraries=places
+File Name: c:\Downloaded Web Sites\midone.left4code.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://midone.left4code.com/dist/js/app.js?v=1
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\js\app.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+File Name: c:\Downloaded Web Sites\midone.left4code.com\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://midone.left4code.com/dist/css/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://midone.left4code.com/dist/images/bg-login-page.svg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\bg-login-page.svg
+Content Type: image/svg+xml
+
+Uri: https://midone.left4code.com/dist/css/app.css
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\css\app-1.css
+Content Type: text/css
+
+Uri: https://midone.left4code.com/simple-menu-inbox.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-inbox.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-file-manager.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-file-manager.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-point-of-sale.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-point-of-sale.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-chat.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-chat.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-post.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-post.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-users-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-users-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-users-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-users-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-users-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-users-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-profile-overview-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-profile-overview-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-profile-overview-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-profile-overview-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-profile-overview-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-profile-overview-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-wizard-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-wizard-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-wizard-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-wizard-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-wizard-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-wizard-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-blog-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-blog-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-blog-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-blog-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-blog-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-blog-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-pricing-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-pricing-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-pricing-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-pricing-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-invoice-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-invoice-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-invoice-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-invoice-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-faq-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-faq-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-faq-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-faq-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-faq-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-faq-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-update-profile.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-update-profile.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-change-password.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-change-password.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-regular-table.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-regular-table.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-datatable.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-datatable.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-accordion.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-accordion.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-button.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-button.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-modal.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-modal.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-alert.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-alert.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-progress-bar.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-progress-bar.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-tooltip.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-tooltip.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-dropdown.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-dropdown.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-toast.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-toast.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-typography.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-typography.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-icon.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-icon.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-regular-form.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-regular-form.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-datepicker.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-datepicker.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-select2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-select2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-file-upload.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-file-upload.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-wysiwyg-editor.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-validation.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-validation.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-chart.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-chart.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-slider.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-slider.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/simple-menu-image-zoom.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\simple-menu-image-zoom.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/dist/images/profile-8.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-8.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-14.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-14.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-4.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-4.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-14.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-14.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-10.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-10.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-11.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-11.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-5.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-5.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-3.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-3.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-1.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-1.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/js/app.js
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\js\app-1.js
+Content Type: application/javascript
+
+Uri: https://midone.left4code.com/top-menu-users-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-users-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-users-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-users-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-users-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-users-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-profile-overview-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-profile-overview-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-profile-overview-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-profile-overview-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-profile-overview-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-profile-overview-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-inbox.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-inbox.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-file-manager.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-file-manager.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-point-of-sale.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-point-of-sale.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-chat.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-chat.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-post.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-post.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-wizard-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-wizard-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-wizard-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-wizard-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-wizard-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-wizard-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-blog-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-blog-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-blog-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-blog-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-blog-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-blog-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-pricing-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-pricing-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-pricing-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-pricing-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-invoice-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-invoice-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-invoice-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-invoice-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-faq-layout-1.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-faq-layout-1.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-faq-layout-2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-faq-layout-2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-faq-layout-3.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-faq-layout-3.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-update-profile.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-update-profile.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-change-password.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-change-password.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-regular-table.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-regular-table.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-datatable.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-datatable.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-accordion.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-accordion.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-button.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-button.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-modal.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-modal.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-alert.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-alert.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-progress-bar.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-progress-bar.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-tooltip.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-tooltip.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-dropdown.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-dropdown.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-toast.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-toast.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-typography.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-typography.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-icon.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-icon.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-regular-form.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-regular-form.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-datepicker.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-datepicker.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-select2.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-select2.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-file-upload.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-file-upload.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-wysiwyg-editor.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-validation.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-validation.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-chart.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-chart.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-slider.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-slider.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/top-menu-image-zoom.html
+File Name: c:\Downloaded Web Sites\midone.left4code.com\top-menu-image-zoom.html
+Content Type: text/html
+
+Uri: https://midone.left4code.com/dist/images/profile-15.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-15.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-2.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-2.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/profile-4.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\profile-4.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/preview-6.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\preview-6.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-7.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-7.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-5.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-5.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-16.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-16.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-2.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-2.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-9.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-9.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/illustration.svg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://midone.left4code.com/dist/images/error-illustration.svg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\error-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-11.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-11.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-17.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-17.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-6.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-6.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-18.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-18.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-4.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-4.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-14.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-14.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-12.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-12.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-19.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-19.jpg
+Content Type: image/jpeg
+
+Uri: https://midone.left4code.com/dist/images/food-beverage-3.jpg
+File Name: c:\Downloaded Web Sites\midone.left4code.com\dist\images\food-beverage-3.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,320 @@
+[
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Los",
+"jumlah": "324"
+},
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "121"
+},
+{
+"id_pasar": "01.01",
+"nama_pasar": "Banyuwangi",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "14"
+},
+{
+"id_pasar": "01.19",
+"nama_pasar": "Mojopanggung",
+"jenis_tempat_dagang": "Los",
+"jumlah": "7"
+},
+{
+"id_pasar": "01.19",
+"nama_pasar": "Mojopanggung",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "8"
+},
+{
+"id_pasar": "01.26",
+"nama_pasar": "Pujasera",
+"jenis_tempat_dagang": "Los",
+"jumlah": "58"
+},
+{
+"id_pasar": "01.26",
+"nama_pasar": "Pujasera",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "72"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Los",
+"jumlah": "237"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "63"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "2"
+},
+{
+"id_pasar": "02.02",
+"nama_pasar": "Genteng II",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "354"
+},
+{
+"id_pasar": "02.19",
+"nama_pasar": "Gambiran",
+"jenis_tempat_dagang": "Los",
+"jumlah": "7"
+},
+{
+"id_pasar": "02.19",
+"nama_pasar": "Gambiran",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "13"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Los",
+"jumlah": "467"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "106"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "1"
+},
+{
+"id_pasar": "03.03",
+"nama_pasar": "Rogojampi",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "91"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Los",
+"jumlah": "171"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "58"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "5"
+},
+{
+"id_pasar": "03.12",
+"nama_pasar": "Gendoh",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "5"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Los",
+"jumlah": "456"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "33"
+},
+{
+"id_pasar": "04.04",
+"nama_pasar": "Jajag",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "20"
+},
+{
+"id_pasar": "04.13",
+"nama_pasar": "Kebondalem",
+"jenis_tempat_dagang": "Los",
+"jumlah": "4"
+},
+{
+"id_pasar": "04.13",
+"nama_pasar": "Kebondalem",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "122"
+},
+{
+"id_pasar": "04.15",
+"nama_pasar": "Sambirejo",
+"jenis_tempat_dagang": "Los",
+"jumlah": "91"
+},
+{
+"id_pasar": "04.15",
+"nama_pasar": "Sambirejo",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "29"
+},
+{
+"id_pasar": "04.17",
+"nama_pasar": "Jatirejo",
+"jenis_tempat_dagang": "Los",
+"jumlah": "59"
+},
+{
+"id_pasar": "04.17",
+"nama_pasar": "Jatirejo",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "22"
+},
+{
+"id_pasar": "05.05",
+"nama_pasar": "Muncar",
+"jenis_tempat_dagang": "Los",
+"jumlah": "366"
+},
+{
+"id_pasar": "05.05",
+"nama_pasar": "Muncar",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "18"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Los",
+"jumlah": "46"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "13"
+},
+{
+"id_pasar": "05.16",
+"nama_pasar": "Dam Buntung",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "1"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Los",
+"jumlah": "417"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "74"
+},
+{
+"id_pasar": "06.06",
+"nama_pasar": "Srono",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "53"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Los",
+"jumlah": "165"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "19"
+},
+{
+"id_pasar": "06.11",
+"nama_pasar": "Benculuk",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "46"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Los",
+"jumlah": "493"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "102"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "3"
+},
+{
+"id_pasar": "07.07",
+"nama_pasar": "Blambangan",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "96"
+},
+{
+"id_pasar": "08.08",
+"nama_pasar": "Kalibaru",
+"jenis_tempat_dagang": "Los",
+"jumlah": "360"
+},
+{
+"id_pasar": "08.08",
+"nama_pasar": "Kalibaru",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "30"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Los",
+"jumlah": "289"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "63"
+},
+{
+"id_pasar": "08.10",
+"nama_pasar": "Glenmore",
+"jenis_tempat_dagang": "Los daging / ikan",
+"jumlah": "8"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Los",
+"jumlah": "29"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Toko ",
+"jumlah": "107"
+},
+{
+"id_pasar": "09.09",
+"nama_pasar": "Genteng I",
+"jenis_tempat_dagang": "Kios",
+"jumlah": "195"
+}
+]
