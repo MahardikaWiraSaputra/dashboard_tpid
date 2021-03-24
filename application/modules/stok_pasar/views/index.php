@@ -23,7 +23,7 @@
                 <!-- Shop Meta Data-->
                 <div class="col-12">
                     <div class="shop-meta-data d-sm-flex align-items-center justify-content-between">
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                             <!-- Total Product View-->
                             <div class="total-product-view mb-4 mb-sm-0">
                                 <span>Menampilkan<span class="rs-counter">74</span>Komoditas
@@ -44,13 +44,13 @@
                                 <?php endforeach;?>
                             </select>
                         </div>
-                        <div class="col-md-3 p-4">
+                        <!-- <div class="col-md-3 p-4">
                             <select class="form-select">
                                 <option selected>Urutkan Berdasarkan</option>
                                 <option value="2">Termahal</option>
                                 <option value="3">Termurah</option>
                             </select>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -62,11 +62,24 @@
     <img src="http://localhost/dashboard_tpid/assets/img/core-img/hero-4-2.png" alt="" style="position: absolute;top: 260px;right: -1px;z-index: -1;">
         <div class="container">
             <div class="section-heading text-center">
-                <h2>Stok Komoditas <b id="title_stok_pasar">Pasar Banyuwangi</b></h2>
-                <p>Harga di bandingkan tanggal 19 Maret 2021</p>
+                <h2>Stok Komoditas <b id="title_stok_pasar" style="text-shadow: 2px 2px #dcd4d4;">Pasar Banyuwangi</b></h2>
+                <!-- <p>Harga di bandingkan tanggal 19 Maret 2021</p> -->
             </div>
             <div class="row g-5 here">
 
             </div>
         </div>
+        <!-- Pagination Area-->
+        <!-- <div class="saasbox-pagination-area section-padding-0-120">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">4</a></li>
+                    <li class="page-item"><a class="page-link" href="#">...</a></li>
+                    <li class="page-item"><a class="page-link" href="#">9</a></li>
+                </ul>
+            </nav>
+        </div> -->
     </div>

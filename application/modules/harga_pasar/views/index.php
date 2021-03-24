@@ -22,7 +22,7 @@
                 <!-- Shop Meta Data-->
                 <div class="col-12">
                     <div class="shop-meta-data d-sm-flex align-items-center justify-content-between">
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                             <!-- Total Product View-->
                             <div class="total-product-view mb-4 mb-sm-0">
                                 <span>Menampilkan<span class="rs-counter">74</span>Komoditas
@@ -76,4 +76,17 @@
                 
             </div>
         </div>
+        <!-- Pagination Area-->
+        <!-- <div class="saasbox-pagination-area section-padding-0-120">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">4</a></li>
+                    <li class="page-item"><a class="page-link" href="#">...</a></li>
+                    <li class="page-item"><a class="page-link" href="#">9</a></li>
+                </ul>
+            </nav>
+        </div> -->
     </div>

@@ -22,7 +22,7 @@
                         </div>
                         <!-- Single Hero Slide-->
                         <div class="single-hero-slide me-xxl-5">
-                            <h2 data-animation="fadeInUp" data-delay="500ms">Balon Wangi</h2>
+                            <h2 data-animation="fadeInUp" data-delay="500ms">BoBa Wangi</h2>
                             <p class="mb-4" data-animation="fadeInUp" data-delay="1000ms">Marketplace BELANJA ONLINE PASAR KABUPATEN BANYUWANGI.</p><a class="btn saasbox-btn white-btn me-3 mt-3" href="#" data-animation="fadeInUp" data-delay="1000ms">Menuju Ke Marketplace</a>
                         </div>
                     </div>
