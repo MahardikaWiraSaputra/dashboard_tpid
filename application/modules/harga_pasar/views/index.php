@@ -43,13 +43,20 @@
                                 <?php endforeach;?>
                             </select>
                         </div>
-                        <!-- <div class="col-md-3 p-4">
-                            <select class="form-select">
+                        <div class="col-md-4 p-4">
+                            <!-- <select class="form-select">
                                 <option selected>Urutkan Berdasarkan</option>
                                 <option value="2">Termahal</option>
                                 <option value="3">Termurah</option>
-                            </select>
-                        </div> -->
+                            </select> -->
+                            <div class="single-widget-area">
+                            <!-- Search Form-->
+                            <form class="widget-form" action="#" method="post">
+                              <input class="form-control" type="search" placeholder="Masukkan komoditas yang dicari">
+                              <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                          </div>
+                        </div>
                     </div>
                 </div>
             </div>
